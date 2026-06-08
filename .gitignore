@@ -106,3 +106,4 @@ traces.jsonl
 .env.*.local
 secrets.yaml
 nonexistent_traces.jsonl/
+.DS_Store
